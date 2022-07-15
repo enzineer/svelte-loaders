@@ -1,0 +1,14 @@
+export const viewBox = {
+	Bars: '0 0 135 140',
+	BallTriangle: '0 0 57 57',
+	Grid: '0 0 105 105',
+	InfinitySpin: '0 0 200 100',
+	MutatingDots: '0 0 100 100',
+	RevolvingDot: '0 0 100 100',
+	Rings: '0 0 45 45',
+	RotatingSquare: '0 0 100 100',
+	TailSpin: '0 0 38 38',
+	ThreeDots: '0 0 120 30',
+	Triangle: '-3 -4 39 39',
+	Watch: '0 0 100 100',
+}
