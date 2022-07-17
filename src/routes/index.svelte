@@ -2,6 +2,8 @@
 	import {
 		BallTriangle,
 		Bars,
+		BarsCircle,
+		Ball,
 		Grid,
 		InfinitySpin,
 		MutatingDots,
@@ -9,14 +11,18 @@
 		RevolvingDot,
 		Rings,
 		RotatingSquare,
+		RotatingDots,
 		TailSpin,
 		ThreeDots,
+		DualRing,
 		Triangle,
 		Watch,
+		Whirl,
+		GearSet,
 	} from '../lib'
 </script>
 
-<main><Watch /></main>
+<main><GearSet /></main>
 
 <style>
 	main {
